@@ -1,4 +1,4 @@
-# 📄 Resume Sorter - AI-Powered Resume Filtering Tool.
+# 📄 Resume Sorter - AI-Powered Resume Filtering Tool
 
 An intelligent resume filtering and analysis application built with Streamlit and Google Gemini AI. Upload multiple resumes and filter them using natural language queries to find the perfect candidates.
 
